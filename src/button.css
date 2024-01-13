@@ -1,0 +1,13 @@
+.btnGrp {
+  width: 20%;
+  height: 10%;
+  margin-left: 40%;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(123, 255, 0);
+}
+.container {
+}
+.btn {
+  margin: 10px 10px;
+}
